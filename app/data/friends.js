@@ -1,3 +1,4 @@
+// superhero data for app
 var list = [
 	{
 	  "name":"Batman",
