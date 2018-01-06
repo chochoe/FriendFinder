@@ -18,7 +18,9 @@ A file with superhero data is used in connjunction with user-generated survey re
 
 ### Screenshots
 
-
+![Front Page](images/front-page.png)
+![Survey](images/superhero-survey.png)
+![Result](images/result-modal.png)
 
 ### Dependencies Used
 
